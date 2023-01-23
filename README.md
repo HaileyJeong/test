@@ -1,0 +1,3 @@
+# bookclub-namad
+
+IT dictionary
